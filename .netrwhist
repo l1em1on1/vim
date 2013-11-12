@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/var/www/newborndev.pl'
+let g:netrw_dirhist_2='/var/www/newborndev.pl/_dev'
+let g:netrw_dirhist_3='/var/www/newborndev.pl/_dev/ocardi/_res'
+let g:netrw_dirhist_4='/var/www/tslogistic.com.pl'
+let g:netrw_dirhist_5='/var/www'
